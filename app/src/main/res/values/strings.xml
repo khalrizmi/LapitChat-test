@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LapitChat</string>
+    <string name="logout">Logout</string>
+    <string name="need_a_new_account">Need a new account</string>
+    <string name="already_have_account">already have account</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">create account</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="btn_login">login</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Password</string>
+    <string name="default_status">Hi there, Im using Lapit Chat App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_status">Your Status</string>
+    <string name="save_changes">SAVE CHANGES</string>
+</resources>
